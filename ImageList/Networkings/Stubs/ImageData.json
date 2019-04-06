@@ -1,0 +1,19 @@
+{
+    "base_url": "https://sample-videos.com",
+    "api_path": "/img",
+    "extensions": [
+        "jpg",
+        "png"
+    ],
+    "file_sizes": [
+        "50kb",
+        "100kb",
+        "200kb",
+        "500kb",
+        "1mb",
+        "2mb",
+        "3mb",
+        "5mb",
+        "10mb"
+    ]
+}
